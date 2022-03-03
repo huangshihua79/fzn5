@@ -1,0 +1,3 @@
+[submodule "lib/boppreh/keyboard"]
+	path = lib/boppreh/keyboard
+	url = git@github.com:boppreh/keyboard
